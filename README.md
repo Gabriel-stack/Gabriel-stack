@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo JS, PHP, HTML, CSS, Bootstrap, VUE, SASS, JAVA, C e Python.
 - Das tecnologias citadas acima, tenho conhecimento intermediário em todas, com excessão do JAVA.
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-stack)](https://github.com/anuraghazra/github-readme-stats)
+- ![gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-stack)]
 - 👯 Estou procurando trabalhar com desenvolvimento de sistemas, aprendizado de máquina e afins.
 - 📫 Você pode estar entrando em contato comigo pelo meu linkedin: https://www.linkedin.com/in/gabrielalvesmartins/
 
