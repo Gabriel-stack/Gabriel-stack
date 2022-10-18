@@ -1,9 +1,9 @@
-# olá meu caro! 👋
+# olá! 👋
 
-## 🔭 Atualmente estou cursando Licenciatura em Computação, mas pretendo seguir carreira na área de T.I.
+## 🔭 Atualmente estou cursando Licenciatura em Computação, e pretendo seguir carreira na área de T.I.
 
 
-> 🌱 Estou aprendendo JS, PHP, HTML, CSS, Bootstrap, VUE, SASS, JAVA, C e Python.
+> 🌱 Minhas ferramentas de trabalho são JS, PHP,LARAVEL,Livewire, HTML, CSS, Bootstrap, VUEJS 
 
 ![gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-stack)]
 
