@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre mim
-Atualmente estou cursando Licenciatura em Computação, e pretendo seguir carreira na área de T.I.
+Graduado em Licenciatura em Computação; Desenvolvedor Laravel Fullstack;
 
 
 
@@ -9,8 +9,6 @@ Atualmente estou cursando Licenciatura em Computação, e pretendo seguir carrei
 
 
 ![gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-stack)
-
-👯 Estou procurando trabalhar com desenvolvimento de sistemas, aprendizado de máquina e afins.
 
 
 
